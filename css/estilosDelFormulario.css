@@ -1,6 +1,9 @@
 * {
     text-align: center;
-    
+    background-color: #ff0000;
 }
 
 
+input{
+    background-color: #ffffff;
+}
